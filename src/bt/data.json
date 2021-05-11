@@ -1,0 +1,59 @@
+{
+  "room": [
+    {
+      "id": "1",
+      "createdAt": "2021-05-05T19:11:35.066Z",
+      "name": "Veronica Kutch",
+      "avatar": "http://lorempixel.com/640/480/nature"
+    },
+    {
+      "id": "2",
+      "createdAt": "2021-05-05T14:04:27.568Z",
+      "name": "Ms. Madelyn Dickinson",
+      "avatar": "http://lorempixel.com/640/480/abstract"
+    },
+    {
+      "id": "3",
+      "createdAt": "2021-05-05T07:30:39.033Z",
+      "name": "Liza Rolfson",
+      "avatar": "http://lorempixel.com/640/480/nature"
+    },
+    {
+      "id": "4",
+      "createdAt": "2021-05-06T02:24:56.534Z",
+      "name": "Catalina Ruecker",
+      "avatar": "http://lorempixel.com/640/480/fashion"
+    },
+    {
+      "id": "5",
+      "createdAt": "2021-05-05T06:17:17.167Z",
+      "name": "Guido Kilback",
+      "avatar": "http://lorempixel.com/640/480/cats"
+    },
+    {
+      "id": "6",
+      "createdAt": "2021-05-05T21:31:57.907Z",
+      "name": "Nellie Hansen",
+      "avatar": "http://lorempixel.com/640/480/technics"
+    },
+    {
+      "id": "7",
+      "createdAt": "2021-05-05T07:58:00.114Z",
+      "name": "Weldon Hettinger",
+      "avatar": "http://lorempixel.com/640/480/transport"
+    },
+    {
+      "id": "8",
+      "createdAt": "2021-05-05T15:36:08.141Z",
+      "name": "Cathryn Roberts I",
+      "avatar": "http://lorempixel.com/640/480/fashion"
+    },
+    {
+      "id": "9",
+      "createdAt": "2021-05-06T00:56:57.709Z",
+      "name": "Earlene Shields II",
+      "avatar": "http://lorempixel.com/640/480/business"
+    }
+    
+  ]
+}
